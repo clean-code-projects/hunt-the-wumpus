@@ -1,2 +1,2 @@
 # hunt-the-wumpus
-Clean Code Implementation of Hunt the Wumpus
+Create an Implementation of Hunt the Wumpus (based on the Clean Code: Behavior Driven Development series)
